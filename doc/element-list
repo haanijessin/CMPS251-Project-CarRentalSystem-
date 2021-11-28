@@ -1,0 +1,6 @@
+controller
+model
+model.rental
+model.rental.car
+model.rental.customer
+model.rental.invoice

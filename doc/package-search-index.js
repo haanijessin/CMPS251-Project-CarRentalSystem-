@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"controller"},{"l":"model"},{"l":"model.rental"},{"l":"model.rental.car"},{"l":"model.rental.customer"},{"l":"model.rental.invoice"}]
